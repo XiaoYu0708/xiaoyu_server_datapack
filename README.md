@@ -1,1 +1,1 @@
-"# xiaoyu_server_datapack" 
+# xiaoyu_server_datapack
